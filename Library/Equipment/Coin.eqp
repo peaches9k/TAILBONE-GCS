@@ -1,0 +1,93 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "eOQVu9CoE9XQPbVJ_",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set/Basic Set Equipment.eqp",
+				"id": "e1oy_sNR1BiZ8wO1l"
+			},
+			"description": "Bismuth Coin",
+			"tech_level": "1",
+			"tags": [
+				"Money"
+			],
+			"base_value": "250",
+			"base_weight": "0.004 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 250,
+				"extended_value": 250,
+				"weight": "0.004 lb",
+				"extended_weight": "0.004 lb"
+			}
+		},
+		{
+			"id": "eI6sI016dJmFPA8ww",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set/Basic Set Equipment.eqp",
+				"id": "e1oy_sNR1BiZ8wO1l"
+			},
+			"description": "Gold Coin",
+			"tech_level": "1",
+			"tags": [
+				"Money"
+			],
+			"base_value": "100",
+			"base_weight": "0.004 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 100,
+				"extended_value": 100,
+				"weight": "0.004 lb",
+				"extended_weight": "0.004 lb"
+			}
+		},
+		{
+			"id": "eUocGhelacR8XVJXZ",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set/Basic Set Equipment.eqp",
+				"id": "e1oy_sNR1BiZ8wO1l"
+			},
+			"description": "Silver Coin",
+			"tech_level": "1",
+			"tags": [
+				"Money"
+			],
+			"base_value": "10",
+			"base_weight": "0.002 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 10,
+				"extended_value": 10,
+				"weight": "0.002 lb",
+				"extended_weight": "0.002 lb"
+			}
+		},
+		{
+			"id": "e_w99c8zMtgs4OtwC",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set/Basic Set Equipment.eqp",
+				"id": "e1oy_sNR1BiZ8wO1l"
+			},
+			"description": "Copper Coin",
+			"tech_level": "1",
+			"tags": [
+				"Money"
+			],
+			"base_value": "1",
+			"base_weight": "0.002 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 1,
+				"extended_value": 1,
+				"weight": "0.002 lb",
+				"extended_weight": "0.002 lb"
+			}
+		}
+	]
+}

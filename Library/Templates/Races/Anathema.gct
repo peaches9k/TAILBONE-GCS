@@ -1,0 +1,31 @@
+{
+	"version": 5,
+	"id": "BWKHRUNZQT0coYgol",
+	"traits": [
+		{
+			"id": "TIk9jPfir6Ezq9v-h",
+			"name": "Anathema",
+			"ancestry": "Human",
+			"container_type": "ancestry",
+			"children": [
+				{
+					"id": "TmfUsydtwLwZ3pkZn",
+					"name": "Attributes",
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "TvSp6aSxPTe5lgzgV",
+					"name": "Traits",
+					"calc": {
+						"points": 0
+					}
+				}
+			],
+			"calc": {
+				"points": 0
+			}
+		}
+	]
+}
